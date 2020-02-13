@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1, 
+      "category": "animal", 
+      "title":"This is title of the post", 
+      "img": "https://via.placeholder.com/400x500?text=First"
+    },
+    {
+      "id": 2, 
+      "category": "animal", 
+      "title":"This is title of the post", 
+      "img": "https://via.placeholder.com/400x500?text=Second"
+    },
+    {
+      "id": 3, 
+      "category": "animal", 
+      "title":"This is title of the post", 
+      "img": "https://via.placeholder.com/400x500?text=Third"
+    },
+    {
+      "id": 4, 
+      "category": "animal", 
+      "title":"This is title of the post", 
+      "img": "https://via.placeholder.com/400x500?text=Fourth"
+    },
+    {
+      "id": 5, 
+      "category": "animal", 
+      "title":"This is title of the post", 
+      "img": "https://via.placeholder.com/400x500?text=Fifth"
+    },
+    {
+      "id": 6, 
+      "category": "animal", 
+      "title":"This is title of the post", 
+      "img": "https://via.placeholder.com/400x500?text=Sixth"
+    },
+    {
+      "id": 7, 
+      "category": "animal", 
+      "title":"This is title of the post", 
+      "img": "https://via.placeholder.com/400x500?text=Seventh"
+    }
+  ]
+}
