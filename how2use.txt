@@ -1,1 +1,1 @@
-http://my-json-server.typicode.com/vadsonio/mockjson/posts
+http://my-json-server.typicode.com/vadsonio/mockjson
