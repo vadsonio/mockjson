@@ -17,7 +17,7 @@
     ]
   },
   "tag": {
-    stupid:[
+    "stupid":[
       {"id": "1", "title": "Some funny photo for you", "img": "https://via.placeholder.com/400x500?text=1"},
       {"id": "2", "title": "Some funny video for you", "img": "https://via.placeholder.com/400x500?text=2"},
       {"id": "3", "title": "Some funny photo for you", "img": "https://via.placeholder.com/400x500?text=3"},
