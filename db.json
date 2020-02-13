@@ -17,6 +17,7 @@
     ]
   },
   "tag": {
+    stupid:[
       {"id": "1", "title": "Some funny photo for you", "img": "https://via.placeholder.com/400x500?text=1"},
       {"id": "2", "title": "Some funny video for you", "img": "https://via.placeholder.com/400x500?text=2"},
       {"id": "3", "title": "Some funny photo for you", "img": "https://via.placeholder.com/400x500?text=3"},
@@ -30,5 +31,6 @@
       {"id": "11", "title": "Some funny photo for you", "img": "https://via.placeholder.com/400x500?text=11"},
       {"id": "12", "title": "Some funny video for you", "img": "https://via.placeholder.com/400x500?text=12"},
       {"id": "13", "title": "Some funny photo for you", "img": "https://via.placeholder.com/400x500?text=13"}
+    ]
   }
 }
